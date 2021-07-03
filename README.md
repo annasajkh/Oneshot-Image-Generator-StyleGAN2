@@ -1,4 +1,4 @@
-# Oneshot-Image-Generator-STYLEGAN
+# Oneshot-Image-Generator-StyleGAN 2
 jupyter notebook of ai that generate oneshot image using StyleGAN 2
 
 # Try it out
